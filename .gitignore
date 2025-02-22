@@ -1,5 +1,6 @@
 .idea/
 .ipynb_checkpoints/
+experiments/
 *.pyc
 *.html
 *.ini
