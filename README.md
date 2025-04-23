@@ -1,7 +1,10 @@
 # Uncertainty Propagation in XAI: A Comparison of Analytical and Empirical Estimators
 
 This repository contains the code and experiments from our paper:  
-**Uncertainty Propagation in XAI: A Comparison of Analytical and Empirical Estimators** (under review)
+**Uncertainty Propagation in XAI: A Comparison of Analytical and Empirical Estimators**
+accepted at WCXAI 2025, Istanbul.
+
+Download paper [here](https://www.arxiv.org/abs/2504.03736)
 
 ## Overview 
 
